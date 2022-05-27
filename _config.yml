@@ -23,8 +23,10 @@ twitter_username: mattpayneleic
 github_username: matthew-j-payne
 minimal_mistakes_skin: default
 search: true
+repository: "matthew-j-payne/webpage"
 
 # Build settings
+github: [metadata]
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
