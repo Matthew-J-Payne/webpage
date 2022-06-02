@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Matthew Payne"
   avatar : "/assets/images/IMG_7705.jpg"
-  bio    : "Hi I'm Matt, I'm interested in environmental spatial and temporal dynamics with an emphasis on analysing through Python and R. \n\ You can contact me at: matthewjpayne1@gmail.com"
+  bio    : "Hi I'm Matt, I'm interested in environmental spatial and temporal dynamics with an emphasis on analysing through Python and R.  \n You can contact me at: matthewjpayne1@gmail.com"
   links:
     # - label: "Website"
     #   icon: "fab fa-fw fa-github"
