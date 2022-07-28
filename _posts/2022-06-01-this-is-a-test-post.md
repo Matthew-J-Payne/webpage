@@ -1,5 +1,5 @@
 ---
-title: "Post: This is a test post"
+title: "Post: Obligatory test post"
 categories:
   - Blog
 tags:

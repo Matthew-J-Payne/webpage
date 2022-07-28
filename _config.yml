@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: ""
 email: matthewjpayne1@gmail.com 
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # ignore newlines until next variable
   This is my research portfolio, where I'll communicate (show off) my environmental dynamics work
 twitter_username: mattpayneleic
 github_username: matthew-j-payne
@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Matthew Payne"
-  avatar : "/assets/images/my_face.jpg"
+  avatar : "/assets/images/Picture1.png"
   bio    : "Hi I'm Matt, I'm interested in environmental spatial and temporal dynamics with an emphasis on analysing through Python and R.  \n You can contact me at: matthewjpayne1@gmail.com"
   links:
     # - label: "Website"
